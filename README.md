@@ -1,7 +1,7 @@
 # Space-Game
 A little physics-based game I made in Unity on a whim
 
-**DOWNLOAD SPACE-GAME.ZIP AND UNZIP IT TO A FOLDER! IGNORE THE REST OF THE FILES IN HERE!!**
+**DOWNLOAD SPACE GAME.ZIP AND UNZIP IT TO A FOLDER! IGNORE THE REST OF THE FILES IN HERE!!**
 
 **Escape exits the game**
 
