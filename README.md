@@ -5,3 +5,5 @@ Use A and D to rotate the ship and the spacebar to propel yourself forward!
 After landing on objects, you can get a boost when taking off!
 
 Hope you enjoy!
+
+P.S. escape exits the game.
